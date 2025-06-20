@@ -1,32 +1,8 @@
-# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=SHREYA%20DATIR&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=TURNING%20IDEAS%20INTO%20SCALABLE%20SOLUTIONS&descAlignY=60&descSize=20)</div>
+# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=SHREYA%20DATIR&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=CRAFTING%20DIGITAL%20EXPERIENCES%20WITH%20CODE&descAlignY=60&descSize=20)</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Shreya+Datir;🚀+Full-Stack+Developer;💻+Problem+Solver+%26+Innovator;🤖+AI%2FML+Enthusiast;🏆+Hackathon+Winner" alt="Typing SVG" />
 </div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🎯-Full%20Stack%20Developer-00D9FF?style=for-the-badge&labelColor=black&color=00D9FF" />
-  <img src="https://img.shields.io/badge/🌟-UI%2FUX%20Enthusiast-FF006E?style=for-the-badge&labelColor=black&color=FF006E" />
-  <img src="https://img.shields.io/badge/⚡-Problem%20Solver-8338EC?style=for-the-badge&labelColor=black&color=8338EC" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreyadatir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/shreyadatir?label=Followers&style=social" alt="GitHub followers" />
-</p>
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/shreyadatir?style=for-the-badge&color=blue&labelColor=black" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/shreyadatir?style=for-the-badge&color=yellow&labelColor=black" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
-</div>
-
-<div align="center">
-  <h3>🎯 Current Focus</h3>
-  <p><strong>Building innovative web applications • Exploring AI/ML • Contributing to open source</strong></p>
-</div>
-
----
 
 ## 🌟 About Me
 
@@ -48,16 +24,16 @@
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript&perline=4" />
 
 ### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&perline=5" />
 
 ### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=4" />
 
 ### 🛠️ Tools & Software
-<img src="https://skillicons.dev/icons?i=figma,postman,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=figma,postman,git,github,vscode&perline=5" />
 
 </div>
 
@@ -129,5 +105,4 @@ Real-time threat detection system designed to enhance women's safety using smart
 
 <div align="center">
   <p><strong>⭐ From <a href="https://github.com/shreyadatir">Shreya Datir</a></strong></p>
-  <p><em>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</em></p>
 </div>
