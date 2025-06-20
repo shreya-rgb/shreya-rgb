@@ -4,7 +4,7 @@
 
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Shreya+Datir;🚀+Full-Stack+Developer;💻+Problem+Solver+%26+Innovator;🤖+AI%2FML+Enthusiast;🏆+Hackathon+Winner" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Shreya+Datir;🚀+Full-Stack+Developer;💻+Problem+Solver+%26+Innovator;🤖+AI%2FML+Learning;🏆+Hackathon+Enthusiast" alt="Typing SVG" />
 
 </div>
 
