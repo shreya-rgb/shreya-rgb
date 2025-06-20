@@ -1,7 +1,7 @@
 # 💻 Shreya Datir – Full Stack Web Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F77E21&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Shreya+👩‍💻;Full+Stack+Web+Developer;AI+%26+ML+Enthusiast" alt="Typing Intro"/>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/intro.gif" width="100%" alt="Animated Intro"/>
 </div>
 
 ---
@@ -39,8 +39,8 @@
 ### 🔙 Backend & Databases
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://img.icons8.com/ios-filled/50/express-js.png" height="40" alt="Express.js"/>
+  <img src="/mnt/data/6762d1ef-b606-4512-a72f-620c4c0c9cf3.png" height="40" alt="Node.js"/>
+  <img src="/mnt/data/dfa6ec12-29c5-412b-b88f-6bac11e980f4.png" height="40" alt="Express.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
 </div>
@@ -49,7 +49,7 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="/mnt/data/4ce9cd89-c4c6-40fa-85d7-1e3d141a6d7f.png" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman"/>
 </div>
