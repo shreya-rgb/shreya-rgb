@@ -1,6 +1,7 @@
-# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=SHREYA%20DATIR&fontSize=50&fontColor=fff&fontAlignY=40&desc=CRAFTING%20DIGITAL%20EXPERIENCES%20WITH%20CODE&descAlignY=60&descSize=20
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=SHREYA%20DATIR&fontSize=50&fontColor=fff&fontAlignY=40&desc=CRAFTING%20DIGITAL%20EXPERIENCES%20WITH%20CODE&descAlignY=60&descSize=20" />
+</div>
 
-)</div>
 
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Shreya+Datir;🚀+Full-Stack+Developer;💻+Problem+Solver+%26+Innovator;🤖+AI%2FML+Enthusiast;🏆+Hackathon+Winner" alt="Typing SVG" />
