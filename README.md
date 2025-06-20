@@ -41,11 +41,8 @@
 ### 🎨 Frontend Development
 <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
 
-### ⚙️ Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 
 ### 🛠️ Tools & Software
 <img src="https://skillicons.dev/icons?i=figma,postman,git,github,vscode" />
@@ -54,49 +51,27 @@
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-<div align="center">
+### 🏠 RentEasy
+A seamless rental platform built for simplifying property rentals. Users can browse listings, view property details, and connect with property owners directly. It aims to bridge the gap between renters and owners using a simple, intuitive user experience. Includes smart filtering and secure messaging.
 
-### 🏠 [RentEasy](https://github.com/shreyadatir/renteasy)
-**Property Rental Management Platform**
-<br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+**Tech Stack:** ReactJS, Tailwind CSS, Node.js, Express, MongoDB
 
-### 🤖 [AI Mock Interviewer](https://github.com/shreyadatir/ai-mock-interviewer)
-**AI-Powered Interview Practice Platform**
-<br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/AI-FF6B6B?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+### 🧠 NextRound – AI Mock Interviewer
+An AI-driven interview simulation platform that mimics real interview scenarios. Users can undergo mock technical and HR interviews powered by large language models like Gemini. Provides instant feedback, performance analytics, and resume-based question generation.
 
-### 📄 [Resume Screening](https://github.com/shreyadatir/resume-screening)
-**Automated Resume Analysis Tool**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+**Tech Stack:** ReactJS, Node.js, Gemini, Firebase
 
-### 🦁 [Saferi](https://github.com/shreyadatir/saferi)
-**Wildlife Conservation Platform**
-<br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+### 📄 Resume Screening Tool
+A web app that automates resume parsing, scoring, and ranking based on specific job criteria using NLP and ML. HRs can shortlist the most relevant candidates efficiently and accurately, with CSV export and PDF viewer features built-in.
 
-</div>
+**Tech Stack:** Python, Flask, Machine Learning, MongoDB
 
----
+### 🛡️ Saferi – Women Safety Analytics
+Real-time threat detection system designed to enhance women's safety using smart sensors, analytics, and alert mechanisms. Includes location tracking, risk heatmaps, emergency alert buttons, and predictive behavior analytics.
 
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyadatir&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shreyadatir&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-</div>
+**Tech Stack:** ReactJS, Node.js, Python, MySQL
 
 ---
 
