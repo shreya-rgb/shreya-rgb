@@ -1,7 +1,13 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi there! I'm Shreya Datir
+# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=SHREYA%20DATIR&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=TURNING%20IDEAS%20INTO%20SCALABLE%20SOLUTIONS&descAlignY=60&descSize=20)</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Problem+Solver+%26+Innovator;AI%2FML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Shreya+Datir;🚀+Full-Stack+Developer;💻+Problem+Solver+%26+Innovator;🤖+AI%2FML+Enthusiast;🏆+Hackathon+Winner" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎯-Full%20Stack%20Developer-00D9FF?style=for-the-badge&labelColor=black&color=00D9FF" />
+  <img src="https://img.shields.io/badge/🌟-UI%2FUX%20Enthusiast-FF006E?style=for-the-badge&labelColor=black&color=FF006E" />
+  <img src="https://img.shields.io/badge/⚡-Problem%20Solver-8338EC?style=for-the-badge&labelColor=black&color=8338EC" />
 </div>
 
 <p align="center">
