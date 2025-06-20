@@ -35,30 +35,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS"/>
 </div>
 
-### 🛠️ Backend
+### 🔙 Backend & Databases
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js"/>
-</div>
-
-### 🗄️ Databases
-
-<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
 </div>
 
-### 🔧 Tools
+### 🛠️ Tools
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-icon.svg" height="40" alt="Postman"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman"/>
 </div>
 
 ---
@@ -67,7 +62,7 @@
 
 ### 🏠 RentEasy
 
-> A seamless rental platform simplifying rentals for people.
+> A seamless rental platform built for simplifying property rentals. Users can browse listings, view property details, and connect with property owners directly. Optimized for a smooth user experience with modern UI.
 
 **Tech Stack:** ReactJS, Tailwind CSS, Node.js, Express, MongoDB
 
@@ -75,7 +70,7 @@
 
 ### 🧠 NextRound – AI Mock Interviewer
 
-> AI-based platform that simulates interview environments.
+> An AI-driven interview simulation platform that mimics real interview scenarios. Provides behavioral and technical rounds, instant feedback, and uses Gemini API for natural language responses.
 
 **Tech Stack:** ReactJS, Node.js, Gemini, Firebase
 
@@ -83,7 +78,7 @@
 
 ### 📄 Resume Screening Tool
 
-> Filters and ranks resumes using NLP techniques.
+> A web app that automates resume parsing, ranking and filtering based on job requirements using natural language processing. Saves hours of manual screening work.
 
 **Tech Stack:** Python, Flask, Machine Learning, MongoDB
 
@@ -91,7 +86,7 @@
 
 ### 🛡️ Saferi – Women Safety Analytics
 
-> Real-time threat detection to protect women using analytics.
+> Real-time threat detection system designed to enhance women's safety. Integrates analytics, alert mechanisms, and GPS tracking through smart devices.
 
 **Tech Stack:** ReactJS, Node.js, Python, MySQL
 
@@ -99,7 +94,13 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shreya-datir-526002289/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shreyadatir88@gmail.com)
+<div>
+  <a href="https://www.linkedin.com/in/shreya-datir-526002289/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:shreyadatir88@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40" alt="Gmail"/>
+  </a>
+</div>
 
 > *Passionate about building, learning and sharing tech. Always open to collaboration!*
