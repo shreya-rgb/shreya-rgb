@@ -1,7 +1,7 @@
 # <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=SHREYA%20DATIR&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=CRAFTING%20DIGITAL%20EXPERIENCES%20WITH%20CODE&descAlignY=60&descSize=20)</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Shreya+Datir;🚀+Full-Stack+Developer;💻+Problem+Solver+%26+Innovator;🤖+AI%2FML+Enthusiast;🏆+Hackathon+Winner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&center=true&width=600&height=100&lines=Hi+👋,+I'm+Shreya+Datir;🚀+Full-Stack+Developer;💻+Problem+Solver+%26+Innovator;🤖+AI%2FML+Enthusiast;🏆+Hackathon+Winner" alt="Typing SVG" />
 </div>
 
 ## 🌟 About Me
@@ -86,7 +86,7 @@ Real-time threat detection system designed to enhance women's safety using smart
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-datir-526002289/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyadatir88@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyadatir)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreya-rgb)
 
 </div>
 
@@ -104,5 +104,5 @@ Real-time threat detection system designed to enhance women's safety using smart
 ---
 
 <div align="center">
-  <p><strong>⭐ From <a href="https://github.com/shreyadatir">Shreya Datir</a></strong></p>
+  <p><strong>⭐ From <a href="https://github.com/shreya-rgb">shreya-rgb</a></strong></p>
 </div>
