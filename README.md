@@ -1,10 +1,8 @@
 # 💻 Shreya Datir – Full Stack Web Developer
 
-![Header](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=180\&section=header\&text=Hi%20There!%20I'm%20Shreya%20👩‍💻\&fontSize=28\&fontAlignY=35)
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;AI+%26+ML+Enthusiast;Passionate+Coder" alt="Typing SVG" />
-</p>
+<div align="center" style="position: relative;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F77E21&center=true&vCenter=true&width=500&height=40&lines=Hi+there!+I'm+Shreya+👩‍💻;Full+Stack+Web+Developer;AI+%26+ML+Enthusiast" alt="Typing Intro"/>
+</div>
 
 ---
 
@@ -35,14 +33,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS"/>
 </div>
 
 ### 🔙 Backend & Databases
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" height="40" alt="Express.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
 </div>
@@ -51,7 +49,7 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="GitHub"/>
+  <img src="https://img.icons8.com/ios-glyphs/90/github.png" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman"/>
 </div>
@@ -62,7 +60,7 @@
 
 ### 🏠 RentEasy
 
-> A seamless rental platform built for simplifying property rentals. Users can browse listings, view property details, and connect with property owners directly. Optimized for a smooth user experience with modern UI.
+> A seamless rental platform built for simplifying property rentals. Users can browse listings, view property details, and connect with property owners directly. It aims to bridge the gap between renters and owners using a simple, intuitive user experience.
 
 **Tech Stack:** ReactJS, Tailwind CSS, Node.js, Express, MongoDB
 
@@ -70,7 +68,7 @@
 
 ### 🧠 NextRound – AI Mock Interviewer
 
-> An AI-driven interview simulation platform that mimics real interview scenarios. Provides behavioral and technical rounds, instant feedback, and uses Gemini API for natural language responses.
+> An AI-driven interview simulation platform that mimics real interview scenarios. Users can undergo mock technical and HR interviews powered by large language models like Gemini. Provides instant feedback and performance analytics.
 
 **Tech Stack:** ReactJS, Node.js, Gemini, Firebase
 
@@ -78,7 +76,7 @@
 
 ### 📄 Resume Screening Tool
 
-> A web app that automates resume parsing, ranking and filtering based on job requirements using natural language processing. Saves hours of manual screening work.
+> A web app that automates resume parsing, scoring, and ranking based on specific job criteria using natural language processing. HRs can shortlist the most relevant candidates efficiently and accurately.
 
 **Tech Stack:** Python, Flask, Machine Learning, MongoDB
 
@@ -86,7 +84,7 @@
 
 ### 🛡️ Saferi – Women Safety Analytics
 
-> Real-time threat detection system designed to enhance women's safety. Integrates analytics, alert mechanisms, and GPS tracking through smart devices.
+> Real-time threat detection system designed to enhance women's safety using smart sensors, analytics, and alert mechanisms. Includes location tracking, risk analysis, and instant response features to ensure protection in emergency scenarios.
 
 **Tech Stack:** ReactJS, Node.js, Python, MySQL
 
@@ -99,7 +97,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
   </a>
   <a href="mailto:shreyadatir88@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40" alt="Gmail"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" alt="Gmail"/>
   </a>
 </div>
 
