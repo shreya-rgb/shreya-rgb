@@ -46,12 +46,12 @@
 ## 🚀 Featured Projects
 
 ### 🏠 RentEasy
-A seamless rental platform built for simplifying property rentals. Users can browse listings, view property details, and connect with property owners directly. It aims to bridge the gap between renters and owners using a simple, intuitive user experience. Includes smart filtering and secure messaging.
+A seamless rental platform built for simplifying rentals. Users can browse listings, view rental details, and connect with owners directly. It aims to bridge the gap between renters and owners using a simple, intuitive user experience. Includes smart filtering and secure messaging.
 
 **Tech Stack:** ReactJS, Tailwind CSS, Node.js, Express, MongoDB
 
 ### 🧠 NextRound – AI Mock Interviewer
-An AI-driven interview simulation platform that mimics real interview scenarios. Users can undergo mock technical and HR interviews powered by large language models like Gemini. Provides instant feedback, performance analytics, and resume-based question generation.
+An AI-driven interview simulation platform that mimics real interview scenarios. Users can undergo mock technical interviews powered by large language models like Gemini. Provides instant feedback, performance analytics, and resume-based question generation.
 
 **Tech Stack:** ReactJS, Node.js, Gemini, Firebase
 
@@ -61,7 +61,7 @@ A web app that automates resume parsing, scoring, and ranking based on specific 
 **Tech Stack:** Python, Flask, Machine Learning, MongoDB
 
 ### 🛡️ Saferi – Women Safety Analytics
-Real-time threat detection system designed to enhance women's safety using smart sensors, analytics, and alert mechanisms. Includes location tracking, risk heatmaps, emergency alert buttons, and predictive behavior analytics.
+Real-time threat detection system designed to enhance women's safety using machine learning, analytics, and alert mechanisms. Includes location tracking, risk heatmaps, emergency alert buttons, and predictive behavior analytics.
 
 **Tech Stack:** ReactJS, Node.js, Python, MySQL
 
