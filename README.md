@@ -11,7 +11,7 @@
 ## 🌟 About Me
 
 * 🎓 **Third-Year Computer Engineering Student** at **PICT, Pune**
-* 💡 **Passionate about:** Full-Stack Development, DSA coding and problem solving, AI/ML
+* 💡 **Passionate about:** Full-Stack Development, DSA coding and problem solving
 * 🏆 **Hackathon Enthusiast:** Love innovating and building impactful solutions
 * 🌱 **Exploring & Learning:** Advanced Full-Stack, Machine Learning, and AI
 * 🏅 **Achievements:**
@@ -71,9 +71,9 @@ Real-time threat detection system designed to enhance women's safety using smart
 
 <div align="center">
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/shreyadatir)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shreyadatir)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/shreyadatir)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)]
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)]
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)]
 
 ### 🏅 Coding Stats
 - **HackerRank:** 5⭐ in C++
