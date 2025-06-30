@@ -8,7 +8,7 @@
 
 </div>
 
-🔗 [Portfolio](https://685a6afbd862356fe460ed7d--webfolio-shreya.netlify.app/)
+🔗 [Portfolio](https://webfolio-shreya.netlify.app/)
 
 ## 🌟 About Me
 
