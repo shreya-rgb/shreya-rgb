@@ -47,22 +47,35 @@
 
 ## 🚀 Featured Projects
 
-### 🏠 RentEasy
+### 🥗 FoodRescue AI &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shreya-rgb/FoodRescue-AI)
+An AI-powered platform to reduce food waste — track your inventory, donate surplus food, discover recipes from expiring ingredients, and coordinate NGO pickups with optimized routes.
+
+**Tech Stack:** ReactJS, Node.js, Python, AI/ML, MongoDB
+
+---
+
+### ✨ LUMÉ — Your Personal Beauty & Style AI &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shreya-rgb/Lume)
+LUMÉ is an AI-powered beauty and style assistant built specifically for Indian beauty lovers. It gives real, personalized advice on skincare, makeup, outfits, haircare, and more — all tailored to your unique profile.
+
+**Tech Stack:** ReactJS, Node.js, Gemini AI, Firebase
+
+---
+
+### 🤖 AgentFlow — AI Workflow Builder &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shreya-rgb/AgentFlow---AI-Workflow-Builder)
+A visual drag-and-drop platform to build and run AI agent workflows in real-time. Connect agents together, hit Run, and watch AI execute each step live.
+
+**Tech Stack:** ReactJS, Node.js, LangChain, WebSockets, MongoDB
+
+---
+
+### 🏠 RentEasy &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KrushnaHarde/rentEasy)
 A seamless rental platform built for simplifying rentals. Users can browse listings, view rental details, and connect with owners directly. It aims to bridge the gap between renters and owners using a simple, intuitive user experience. Includes smart filtering and secure messaging.
 
 **Tech Stack:** ReactJS, Tailwind CSS, Node.js, Express, MongoDB
 
-### 🧠 NextRound – AI Mock Interviewer
-An AI-driven interview simulation platform that mimics real interview scenarios. Users can undergo mock technical interviews powered by large language models like Gemini. Provides instant feedback, performance analytics, and resume-based question generation.
+---
 
-**Tech Stack:** ReactJS, Node.js, Gemini, Firebase
-
-### 📄 Resume Screening Tool
-A web app that automates resume parsing, scoring, and ranking based on specific job criteria using NLP and ML. HRs can shortlist the most relevant candidates efficiently and accurately, with CSV export and PDF viewer features built-in.
-
-**Tech Stack:** Python, Flask, Machine Learning, MongoDB
-
-### 🛡️ Saferi – Women Safety Analytics
+### 🛡️ Saferi — Women Safety Analytics
 Real-time threat detection system designed to enhance women's safety using machine learning, analytics, and alert mechanisms. Includes location tracking, risk heatmaps, emergency alert buttons, and predictive behavior analytics.
 
 **Tech Stack:** ReactJS, Node.js, Python, MySQL
