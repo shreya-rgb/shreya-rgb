@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=SHREYA%20DATIR&fontSize=50&fontColor=fff&fontAlignY=40&desc=CRAFTING%20DIGITAL%20EXPERIENCES%20WITH%20CODE&descAlignY=60&descSize=20" />
+  <img src="./banner.png" alt="Shreya Datir — Computer Engineer Student" width="100%" />
 </div>
 
 
