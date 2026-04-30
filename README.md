@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" alt="Shreya Datir — Computer Engineer Student" width="100%" />
+  <img src="./banner.gif" alt="Shreya Datir — Computer Engineer Student" width="100%" />
 </div>
 
 
