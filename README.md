@@ -1,22 +1,8 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FBE&height=200&section=header&text=Shreya%20Datir&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Engineer%20%7C%20Builder%20%7C%20PM%20Intern%20%40%20Mastercard&descAlignY=58&descSize=18" width="100%" />
-</div>
+<div align="center"><img src="./banner.gif" alt="Shreya Datir — Computer Engineer Student" width="100%" /></div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=100&lines=Hi+👋,+I'm+Shreya+Datir;🚀+Full-Stack+Developer;�+PM+Intern+%40+Mastercard+MPGS;�💻+Problem+Solver+%26+Innovator;🤖+AI%2FML+Learning;🏆+Hackathon+Enthusiast" alt="Typing SVG" />
-</div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Shreya+Datir;🚀+Full-Stack+Developer;+Problem+Solver+%26+Innovator;🤖+AI%2FML+Learning;🏆+Hackathon+Enthusiast" alt="Typing SVG" /></div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreya-rgb&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  &nbsp;
-  <a href="https://webfolio-shreya.netlify.app/">
-    <img src="https://img.shields.io/badge/🔗 Portfolio-00D9FF?style=flat-square&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
-<br/>
-
----
+🔗 [Portfolio](https://webfolio-shreya.netlify.app/)
 
 ## 🌟 About Me
 
@@ -33,9 +19,7 @@
 * 📫 **Reach Me At:** shreyadatir88@gmail.com
 * ⚡ **Fun Fact:** I can debug code faster than I can decide what to have for lunch! 🍕💻
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7B2FBE&height=2&section=header" width="100%" />
-</div>
+---
 
 ## 🚀 Tech Stack & Tools
 
@@ -55,25 +39,7 @@
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7B2FBE&height=2&section=header" width="100%" />
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreya-rgb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff" height="180" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-rgb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" height="180" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-rgb&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7B2FBE&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7B2FBE&height=2&section=header" width="100%" />
-</div>
+---
 
 ## 🚀 Featured Projects
 
@@ -115,9 +81,7 @@ Real-time threat detection system designed to enhance women's safety using machi
 
 **Tech Stack:** ReactJS, Node.js, Python, MySQL
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7B2FBE&height=2&section=header" width="100%" />
-</div>
+---
 
 ## 🌐 Connect With Me
 
@@ -126,27 +90,22 @@ Real-time threat detection system designed to enhance women's safety using machi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-datir-526002289/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyadatir88@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreya-rgb)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://webfolio-shreya.netlify.app/)
 
 </div>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7B2FBE&height=2&section=header" width="100%" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating commits" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating commits" />
+<h3>💭 Quote of the Day</h3>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
 </div>
 
-<div align="center">
-  <h3>💭 Quote of the Day</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
-</div>
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,100:00D9FF&height=120&section=footer" width="100%" />
-</div>
-
-<div align="center">
-  <p><strong>⭐ From <a href="https://github.com/shreya-rgb">shreya-rgb</a></strong></p>
+<p><strong>⭐ From <a href="https://github.com/shreya-rgb">shreya-rgb</a></strong></p>
 </div>
