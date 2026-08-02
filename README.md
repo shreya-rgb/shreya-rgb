@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 
-* 🎓 **Third-Year Computer Engineering Student** at **PICT, Pune** (CGPA - 9.76)
+* 🎓 **A Final Year Computer Engineering Student** at **PICT, Pune** (CGPA - 9.76)
 * 💼 **Product Management - Technical Intern** at **Mastercard** in the Mastercard Payment Gateway Services (MPGS) team
 * 💡 **Passionate about:** Full-Stack Development, DSA coding and problem solving
 * 🌐 Passionate about payment infrastructure, APIs, and translating complex technical systems into impactful product solutions.
